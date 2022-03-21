@@ -1,0 +1,11 @@
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\bin\Debug\Friends list.exe.config
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\bin\Debug\Friends list.exe
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\bin\Debug\Friends list.pdb
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\obj\Debug\Friends list.csproj.AssemblyReference.cache
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\obj\Debug\Friends list.csproj.SuggestedBindingRedirects.cache
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\obj\Debug\Friends_list.frmOne.resources
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\obj\Debug\Friends_list.Properties.Resources.resources
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\obj\Debug\Friends list.csproj.GenerateResource.cache
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\obj\Debug\Friends list.csproj.CoreCompileInputs.cache
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\obj\Debug\Friends list.exe
+C:\Users\matil\Documents\2022\Software development\Friends list\Friends list\obj\Debug\Friends list.pdb
