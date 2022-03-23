@@ -1,0 +1,11 @@
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\bin\Debug\SofDev SAC task ONE.exe.config
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\bin\Debug\SofDev SAC task ONE.exe
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\bin\Debug\SofDev SAC task ONE.pdb
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\obj\Debug\SofDev SAC task ONE.csproj.AssemblyReference.cache
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\obj\Debug\SofDev SAC task ONE.csproj.SuggestedBindingRedirects.cache
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\obj\Debug\SofDev_SAC_task_ONE.Form1.resources
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\obj\Debug\SofDev_SAC_task_ONE.Properties.Resources.resources
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\obj\Debug\SofDev SAC task ONE.csproj.GenerateResource.cache
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\obj\Debug\SofDev SAC task ONE.csproj.CoreCompileInputs.cache
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\obj\Debug\SofDev SAC task ONE.exe
+C:\Users\matil\Documents\2022\Software development\SofDev SAC task ONE\SofDev SAC task ONE\obj\Debug\SofDev SAC task ONE.pdb
